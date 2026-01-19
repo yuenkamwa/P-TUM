@@ -1,4 +1,4 @@
-中意就攞去用喇! Open Source Program. VBA password: 123
+中意就攞去用喇! Open Source Program. VBA project password: 123
 
 Design assumptions:
 
