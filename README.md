@@ -1,16 +1,15 @@
 中意就攞去用喇! 
 
+<b>PTUM</b> stands for Point load, Triangular load, Uniform load and Moment<br />
 This is an open source program. VBA project password: 123<br />
-PTUM stands for Point load, Triangular load, Uniform load and Moment<br />
 It contains a beam analysis function and a RC design function.
 
-Known issues:
-2026.2.2 Propped beam wrong calculation on shearing force.
+Known issues:<br>
+- 2026.2.2 <b>Propped beam wrong calculation on shearing force.</b>
+<br>
 
-
-Design assumptions:
-
-- Design for Hong Kong Code of Practice for Structural Use of Concrete 2013
+Assumptions of RC Design:<br>
+- Design for <b>Hong Kong Code of Practice for Structural Use of Concrete 2013</b>
 - The beam is under sagging stress, and without any pattern loads
 - Max. 4 layers of mainbar in both upper part and lower part of the beam
 - No more than one type of mainbar per beam, eg. T25
