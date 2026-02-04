@@ -32,6 +32,12 @@ Assumptions of RC design:<br>
 - Do NOT consider curtailment
 - Do NOT consider lapping of mainbar
 - Do NOT consider support width
+
+<br>
+Tick "Unlock" after download the Excel file
+<br>
+<img width="502" height="729" alt="Unlock" src="https://github.com/user-attachments/assets/bd775d3f-681e-447a-a59a-1d98a09d0c47" />
+<br>
 <br>
 <img width="1302" height="1006" alt="P-TUM" src="https://github.com/user-attachments/assets/eceb5800-5929-4423-bfed-ff91186009c1" />
 <br>
